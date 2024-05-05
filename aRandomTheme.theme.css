@@ -1,13 +1,4 @@
-/**
- * @name A random theme xD
- * @author Ranxlus
- * @version 1.0.0
- * @source https://server2200.github.io/aRandomTheme.theme.css
- * @website http://ranxlus.rf.gd
- * @description A random theme made by ranxlus on discord
- * @authorId 1186151012512321552
- * @invite HyZGsxDEz2
-*/
+@import url(http://ranxlus.rf.gd/styles/better-discord-midnight.css)
 @import url(http://ranxlus.rf.gd/styles/better-discord-font.css)
 body {
     font-family: "Pixelify Sans";
