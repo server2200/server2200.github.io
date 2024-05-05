@@ -1,6 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
 
 body {
-    --title-image: url('https://commandcrafterhd.github.io/Fallout4TerminalTheme/svg/title.svg');
+    --title-image: url("https://commandcrafterhd.github.io/Fallout4TerminalTheme/svg/title.svg");
+    --title-image-repeat: no-repeat;
+    --title-image-size: cover;
+    --title-image-color: var(--highlight);
+    --title-image-width: 240px;
+    --title-image-height: 14px;
+    --background-primary: var(--backgr
     font-family: "Honk", system-ui;
 }
