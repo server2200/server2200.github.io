@@ -1,6 +1,7 @@
 @import url(http://ranxlus.rf.gd/styles/better-discord-font.css);
 @import url(http://ranxlus.rf.gd/styles/better-discord-midnight.css);
 
-body {
+:root {
+    --title-image: url("https://commandcrafterhd.github.io/Fallout4TerminalTheme/svg/title.svg");
     font-family: "Pixelify Sans";
 }
