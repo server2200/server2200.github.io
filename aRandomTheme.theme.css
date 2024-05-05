@@ -1,6 +1,6 @@
-@import url('http://ranxlus.rf.gd/styles/better-discord-font.css');
+@import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
 
 body {
     --title-image: url('https://commandcrafterhd.github.io/Fallout4TerminalTheme/svg/title.svg');
-    font-family: "Pixelify Sans";
+    font-family: "Honk", system-ui;
 }
